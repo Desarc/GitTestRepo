@@ -1,0 +1,1 @@
+This repository serves as test data for running automated tests that interact with Git.
